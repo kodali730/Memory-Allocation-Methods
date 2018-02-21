@@ -1,7 +1,9 @@
 # Memory-Allocation-Methods
  Program in JAVA to implement three Memory Allocation Methods: FF,BF,WF. This program should read data about the processes from “Minput.data” and produce the memory allocations for new processes in 3 files: “FFoutput.data”, “BFoutput.data” , and “WFoutput.data” 
-Memory Management
-						The memory management potion of the operating System is responsible for efficient usage of main memory. The memory management portion of the Operating System is responsible for the efficient usage of main memory, especially in a multiprogramming environment where processes contend for memory.
+
+
+Memory Management:
+			The memory management potion of the operating System is responsible for efficient usage of main memory. The memory management portion of the Operating System is responsible for the efficient usage of main memory, especially in a multiprogramming environment where processes contend for memory.
  It must also offer protection of one process address space from another (including protection of system address space from user processes). 
 The memory subsystem should also provide programmers with a convenient logical or virtual address space, in which the low-level details of memory management are hidden.
 In Operating systems, there are some common memory management techniques.
